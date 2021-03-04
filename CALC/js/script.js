@@ -1,7 +1,9 @@
 'use strict';
 
-const inputEur = document.querySelector('#EUR'),
-      inputUsd = document.querySelector('#USD');
+const inputEur = document.querySelector('#eur'),
+      inputUsd = document.querySelector('#usd')
+      inputRub = document.querySelector('#rub')
+      inputPound = document.querySelector('#pound');
 
       inputEur.addEventListener('input', () => {
     const request = new XMLHttpRequest();
