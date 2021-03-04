@@ -15,12 +15,6 @@ body {
 	box-sizing: border-box;
 }
 
-header {
-	color: grey;
-	font-size: 25px;
-	font-weight: bold;
-}
-
 
 #login-form {
 	width: 300px;
